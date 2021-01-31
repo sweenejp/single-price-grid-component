@@ -118,8 +118,9 @@ main {
   margin-bottom: .25em;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   main {
+    width: fit-content;
     grid-template-columns: 325px 325px;
     grid-template-areas: 
     "intro intro"
