@@ -118,9 +118,19 @@ main {
   margin-bottom: .25em;
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    margin-top: 1em;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
 @media screen and (min-width: 900px) {
   main {
     width: fit-content;
+    width: -moz-fit-content;
     grid-template-columns: 325px 325px;
     grid-template-areas: 
     "intro intro"
