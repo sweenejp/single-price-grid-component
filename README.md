@@ -1,3 +1,9 @@
+This is my attempt at completing this challenge from frontendmentor.io. The original instructions are below. Feel free to fork this repository!
+
+Live site here: https://jsweeney-single-price-grid-component.netlify.app/
+
+---
+
 # Frontend Mentor - Single Price Grid Component
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
